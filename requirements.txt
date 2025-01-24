@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-Cors==4.0.0
+opencv-python-headless==4.8.0.76  # Use the headless version of OpenCV
+numpy==1.24.3
+pymongo==4.5.0
+tensorflow-cpu==2.13.0            # Use the CPU-only version of TensorFlow
+cloudinary==1.32.0
+concurrent-log-handler==0.9.23
